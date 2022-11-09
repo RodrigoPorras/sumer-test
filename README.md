@@ -1,16 +1,18 @@
 # sumer_test
 
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Flutter version: 3.3.0
 
-A few resources to get you started if this is your first Flutter project:
+##Features
+- Get Trending Gifs
+- Search Gifs 
+- clear search result
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+** Unit Test under SUMER/sumer_test/test/screens/home/bloc
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+https://user-images.githubusercontent.com/8269186/200874485-53dedd36-7a3b-4093-8d4c-9cc86b98f1db.mp4
+
